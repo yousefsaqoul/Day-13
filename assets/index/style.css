@@ -1,0 +1,47 @@
+body {
+	background-image: url('images/bodybg.jpg');
+	color: #000305;
+	font-size: 87%; /* base font-size = 14px */
+	font-family: Arial,'Lucida Sans Unicode';
+	line-height: 1.5;
+	text-align: left;
+}
+
+
+a {text-decoration: none;}
+a:link, a:visited { color: #e74c3c;}
+a:hover, a:active { color: #f58233;}
+
+.body {
+
+	margin: 10px auto;
+	width: 70%;
+	clear: both;
+}
+/*------------- MAIN HEADER --------------*/
+
+.mainheader img {
+	width: 100%;
+}
+.mainheader nav {
+	background-color: #1B1464;
+	height: 40px;
+	border-radius: 5px;
+}
+.mainheader nav ul {
+	text-align: center;
+	list-style: none;
+	margin: 0 auto;
+
+}
+
+.mainheader nav ul li {
+	display: inline;
+
+	
+}
+
+
+
+
+
